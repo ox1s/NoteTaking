@@ -1,0 +1,17 @@
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.Form1.resources
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.csproj.GenerateResource.cache
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.AssemblyInfoInputs.cache
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.AssemblyInfo.cs
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.csproj.CoreCompileInputs.cache
+H:\C#Learning\NoteTaking\bin\Debug\net8.0-windows\NoteTaking.exe
+H:\C#Learning\NoteTaking\bin\Debug\net8.0-windows\NoteTaking.deps.json
+H:\C#Learning\NoteTaking\bin\Debug\net8.0-windows\NoteTaking.runtimeconfig.json
+H:\C#Learning\NoteTaking\bin\Debug\net8.0-windows\NoteTaking.dll
+H:\C#Learning\NoteTaking\bin\Debug\net8.0-windows\NoteTaking.pdb
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.dll
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\refint\NoteTaking.dll
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.pdb
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.genruntimeconfig.cache
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\ref\NoteTaking.dll
+H:\C#Learning\NoteTaking\obj\Debug\net8.0-windows\NoteTaking.Properties.Resources.resources
